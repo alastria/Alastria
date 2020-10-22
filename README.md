@@ -9,7 +9,7 @@ Alastria is an association open to all types of companies and organizations, our
 We have a clear vocation to be a pioneering project of reference in the generation of new digital economy models.
 
 ## Do you want to know about the Association?
-Please, visit our [Web Page](https:/alastria.io) to find all the information about the work we are doing in the Association.
+Please, visit our [Web Page](https://alastria.io) to find all the information about the work we are doing in the Association.
 
 ## Do you want to know about Technology and our collaborative way of working?
 Please go to [Wiki](https://github.com/alastria/Alastria/wiki) to find all the documentation about the Technical Axis of Alastria.
