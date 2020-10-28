@@ -5,6 +5,7 @@
         <img src="./img//Marca-Alastria-Principal-H_Fondo_Blanco_Solido.png" width="500" alt="Alastria Official Logo Horizontal in Color with white background" title="Alastria Logo">
      </a> 
    </td>
+  </tr>
 </table>
 
 # Alastria General information
