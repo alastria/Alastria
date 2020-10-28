@@ -1,14 +1,14 @@
+# Alastria General information
+
 <table>
   <tr>
    <td>
      <a href="https://alastria.io/en">
-        <img src="./img//Marca-Alastria-Principal-H_Fondo_Blanco_Solido.png" width="500" alt="Alastria Official Logo Horizontal in Color with white background" title="Alastria Logo">
+        <img src="./img/Marca-Alastria-Principal-H_Fondo_Blanco_Solido.png" width="500" alt="Alastria Official Logo Horizontal in Color with white background" title="Alastria Logo">
      </a> 
    </td>
   </tr>
 </table>
-
-# Alastria General information
 
 Alastria is a non-profit association that promotes the digital economy through the development of decentralised ledger technologies/Blockchain.
 
