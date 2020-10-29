@@ -1,3 +1,8 @@
+# Title to be displayed in the GitHub Page
 title: Alastria Blockchain Consortium
+# Subtitle to be displayed in the GitHub Page
 description: Non Profit association to promote the use of Blockchain in Spain, Europe and Global
-theme: jekyll-theme-midnight
+# Theme to be used in the GitHub Page
+# by default: them: jekyll-theme-cayman
+# for black: theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
